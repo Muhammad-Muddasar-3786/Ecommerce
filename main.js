@@ -39,3 +39,5 @@ fetch('./api/products.json')
  .catch(error => {
    console.error('Error fetching the products:', error);
  });
+
+ // ---------CARDS ADDED ABOVE-----------
