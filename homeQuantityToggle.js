@@ -26,3 +26,8 @@ export const homeQuantityToggle = (event, id, stock) => {
     productQuantity.setAttribute("data-quantity", quantity.toString());
     return quantity;
   };
+
+
+
+
+//   --------Home tooogle -----
